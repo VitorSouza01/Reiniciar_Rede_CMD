@@ -10,4 +10,5 @@ Este script .bat realiza a reinicialização da rede em máquinas com Windows.
 <br>
 
 ## 🖼️ Imagens
+![img1](https://github.com/user-attachments/assets/f73285f5-7c56-4fc8-b34a-f027e96c47f0)
 
